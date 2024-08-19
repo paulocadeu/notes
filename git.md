@@ -20,3 +20,8 @@ git config --global user.name "John Doe"
 ```
 git config --global user.email johndoe@example.com
 ```
+
+git remote add origin <repository online>
+
+git remote rm origin
+
